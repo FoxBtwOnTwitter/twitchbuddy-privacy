@@ -1,43 +1,78 @@
-Politique de confidentialité – TwitchBuddy
-Dernière mise à jour : 2025-06-04
+# **Privacy Policy – TwitchBuddy**
 
-1. Introduction
-TwitchBuddy est une extension Chrome qui vous permet de voir quels streamers Twitch que vous suivez sont en direct et de recevoir des notifications lorsqu’ils commencent un live.
-Nous accordons une grande importance à la confidentialité de vos données.
+**Last updated: 2025-06-04**
 
-2. Données collectées
-L’extension ne collecte, ne stocke ni ne transmet aucune donnée personnelle à un serveur externe.
-Toutes les données suivantes sont stockées localement sur votre navigateur :
+---
 
-Liste de vos streamers favoris (IDs Twitch)
-Préférences d’affichage et de langue
-Jeton d’accès OAuth Twitch (nécessaire pour accéder à l’API Twitch)
-3. Utilisation des données
-Les données sont utilisées uniquement pour :
+## **1. Introduction**
 
-Afficher la liste de vos streamers suivis et leur statut en direct
-Vous notifier lorsqu’un streamer favori commence un live
-Personnaliser l’interface selon vos préférences
-Aucune donnée n’est partagée, vendue ou transmise à un tiers.
+**TwitchBuddy** is a Chrome extension that allows you to see which of your favorite Twitch streamers are live and notifies you when they start streaming.  
+We take your privacy seriously.
 
-4. Authentification Twitch
-L’extension utilise le système d’authentification officiel de Twitch (OAuth).
-Votre jeton d’accès est stocké localement et n’est jamais transmis à un serveur autre que l’API officielle de Twitch.
+---
 
-5. Permissions
-L’extension demande les permissions suivantes :
+## **2. Data Collected**
 
-identity : pour l’authentification OAuth avec Twitch
-storage : pour sauvegarder vos préférences localement
-notifications : pour vous avertir des lives
-alarms : pour vérifier régulièrement le statut des streamers
-6. Sécurité
-Aucun mot de passe ou information sensible n’est stocké ou accessible par l’extension.
-Le code source ne contient aucun secret client ou clé privée.
-7. Suppression des données
-Vous pouvez supprimer toutes les données locales en désinstallant l’extension ou en réinitialisant les paramètres via l’interface.
+This extension **does not collect, store, or transmit any personal data** to any external server.  
+All the following data is **stored locally** in your browser:
 
-8. Contact
-Pour toute question concernant la confidentialité, contactez le développeur via la page du Chrome Web Store ou à l’adresse indiquée dans la fiche de l’extension.
+- List of your favorite streamers (Twitch IDs)
+- Display and language preferences
+- Twitch OAuth access token (required for Twitch API access)
 
-En utilisant TwitchBuddy, vous acceptez cette politique de confidentialité.
+---
+
+## **3. Use of Data**
+
+Your data is used only to:
+
+- Display your followed streamers and their live status
+- Notify you when a favorite streamer goes live
+- Personalize the interface according to your preferences
+
+**No data is shared, sold, or transmitted to any third party.**
+
+---
+
+## **4. Twitch Authentication**
+
+The extension uses the official Twitch authentication system (OAuth).  
+Your access token is **stored locally** and is never sent to any server other than the official Twitch API.
+
+---
+
+## **5. Permissions**
+
+The extension requests the following permissions:
+
+- **identity**: for OAuth authentication with Twitch
+- **storage**: to save your preferences locally
+- **notifications**: to notify you when streamers go live
+- **alarms**: to regularly check the live status of your favorite streamers
+
+---
+
+## **6. Security**
+
+- No passwords or sensitive information are stored or accessible by the extension.
+- The source code does **not** contain any client secrets or private keys.
+
+---
+
+## **7. Data Deletion**
+
+You can delete all local data by uninstalling the extension or resetting the settings via the interface.
+
+---
+
+## **8. Contact**
+
+For any questions regarding privacy, contact the developer via the Chrome Web Store page or the email address provided in the extension listing.
+
+---
+
+**By using TwitchBuddy, you agree to this privacy policy.**
+
+---
+
+*This document is provided in English for international accessibility. If you need a French version, please contact the developer.*
