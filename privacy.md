@@ -74,5 +74,3 @@ For any questions regarding privacy, contact the developer via the Chrome Web St
 **By using TwitchBuddy, you agree to this privacy policy.**
 
 ---
-
-*This document is provided in English for international accessibility. If you need a French version, please contact the developer.*
